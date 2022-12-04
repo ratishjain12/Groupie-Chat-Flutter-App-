@@ -4,7 +4,6 @@ A Full Stack Group Chat App Using Flutter and Firebase
 
 ## Getting Started
 
-Clone the github repo 
-run command flutter run
+Clone the github repo run command -flutter run
 
 
